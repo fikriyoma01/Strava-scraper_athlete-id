@@ -1,4 +1,3 @@
-````markdown
 # Strava Activity Scraper 🚀
 
 Skrip Python ini dirancang untuk melakukan scraping data aktivitas dari Strava. Skrip ini menggunakan Selenium untuk mengotomatisasi browser Chrome, terhubung ke database MySQL melalui SSH Tunnel, mengambil daftar ID atlet, mengambil data aktivitas terbaru mereka, dan menyimpannya kembali ke database.
